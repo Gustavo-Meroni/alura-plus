@@ -2,7 +2,7 @@
 
 Projeto desenvolvido com foco em uma **landing page moderna e responsiva** para promover o Combo+ da Alura, que une os serviços **Alura+** e **Alura Língua**.
 
-> 🔗 [Acesse o repositório no GitHub](https://github.com/Gustavo-Meroni/alura-plus)
+> 🔗 [Acesse o repositório no GitHub](https://gustavo-meroni.github.io/alura-plus/)
 
 ---
 
